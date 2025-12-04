@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+python-pptx
+opencv-python
+matplotlib
+tqdm
+requests
+twelve-labs
