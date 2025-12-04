@@ -9,3 +9,4 @@ tqdm
 requests
 twelvelabs
 python-dotenv
+python-docx
